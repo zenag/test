@@ -1,0 +1,64 @@
+[26-Mar-2020 11:24:13 Europe/Berlin] There’s been a problem!
+[26-Mar-2020 11:26:14 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 11:26:16 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\usermodel.php on line 33
+[26-Mar-2020 11:26:35 Europe/Berlin] Missing CSRF session token. Form ignored.
+[26-Mar-2020 11:26:44 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 11:26:46 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\usermodel.php on line 33
+[26-Mar-2020 11:30:27 Europe/Berlin] Missing CSRF session token. Form ignored.
+[26-Mar-2020 11:30:33 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 11:31:15 Europe/Berlin] Missing CSRF session token. Form ignored.
+[26-Mar-2020 11:31:21 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 11:31:22 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\usermodel.php on line 32
+[26-Mar-2020 11:33:26 Europe/Berlin] Missing CSRF session token. Form ignored.
+[26-Mar-2020 11:33:32 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 11:33:34 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\usermodel.php on line 32
+[26-Mar-2020 11:33:56 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'php_assignment.song' doesn't exist in D:\xampp\htdocs\mvc\application\models\songsmodel.php on line 24
+[26-Mar-2020 11:33:56 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'php_assignment.song' doesn't exist in D:\xampp\htdocs\mvc\application\models\statsmodel.php on line 25
+[26-Mar-2020 11:33:56 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\mvc\application\models\statsmodel.php on line 28
+[26-Mar-2020 11:37:48 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'php_assignment.song' doesn't exist in D:\xampp\htdocs\mvc\application\models\songsmodel.php on line 24
+[26-Mar-2020 11:37:48 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'php_assignment.song' doesn't exist in D:\xampp\htdocs\mvc\application\models\statsmodel.php on line 25
+[26-Mar-2020 11:37:48 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\mvc\application\models\statsmodel.php on line 28
+[26-Mar-2020 11:38:47 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'php_assignment.song' doesn't exist in D:\xampp\htdocs\mvc\application\models\songsmodel.php on line 24
+[26-Mar-2020 11:38:47 Europe/Berlin] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'php_assignment.song' doesn't exist in D:\xampp\htdocs\mvc\application\models\statsmodel.php on line 25
+[26-Mar-2020 11:38:47 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\xampp\htdocs\mvc\application\models\statsmodel.php on line 28
+[26-Mar-2020 11:40:14 Europe/Berlin] PHP Fatal error:  Call to undefined method SongsModel::addSong() in D:\xampp\htdocs\mvc\application\controller\songs.php on line 56
+[26-Mar-2020 11:43:42 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 11:43:44 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\usermodel.php on line 35
+[26-Mar-2020 11:44:26 Europe/Berlin] Missing CSRF session token. Form ignored.
+[26-Mar-2020 11:44:37 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 11:44:39 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\usermodel.php on line 35
+[26-Mar-2020 11:54:52 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 11:54:54 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\usermodel.php on line 35
+[26-Mar-2020 11:55:38 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 11:55:39 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\usermodel.php on line 35
+[26-Mar-2020 11:58:10 Europe/Berlin] Missing CSRF session token. Form ignored.
+[26-Mar-2020 11:58:18 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 11:58:20 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\usermodel.php on line 32
+[26-Mar-2020 12:00:03 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 12:00:05 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\songsmodel.php on line 48
+[26-Mar-2020 12:06:51 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\songsmodel.php on line 23
+[26-Mar-2020 12:06:52 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\songsmodel.php on line 23
+[26-Mar-2020 12:07:14 Europe/Berlin] PHP Fatal error:  Class 'NoCSRF' not found in D:\xampp\htdocs\mvc\application\controller\home.php on line 41
+[26-Mar-2020 12:07:43 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\songsmodel.php on line 23
+[26-Mar-2020 12:07:51 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\songsmodel.php on line 23
+[26-Mar-2020 12:07:52 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\songsmodel.php on line 23
+[26-Mar-2020 12:08:00 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\songsmodel.php on line 23
+[26-Mar-2020 12:08:07 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\songsmodel.php on line 23
+[26-Mar-2020 12:08:08 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in D:\xampp\htdocs\mvc\application\models\songsmodel.php on line 23
+[26-Mar-2020 12:08:16 Europe/Berlin] PHP Fatal error:  Class 'NoCSRF' not found in D:\xampp\htdocs\mvc\application\controller\home.php on line 44
+[26-Mar-2020 12:09:46 Europe/Berlin] Missing CSRF session token. Form ignored.
+[26-Mar-2020 13:24:02 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 13:24:04 Europe/Berlin] User details sucessfully added to database!
+[26-Mar-2020 13:27:00 Europe/Berlin] Missing CSRF session token. Form ignored.
+[26-Mar-2020 13:27:16 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 13:27:17 Europe/Berlin] User details sucessfully added to database!
+[26-Mar-2020 13:36:34 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 13:36:36 Europe/Berlin] User details sucessfully added to database!
+[26-Mar-2020 13:36:36 Europe/Berlin] PHP Notice:  Undefined variable: _SESION in D:\xampp\htdocs\mvc\application\views\home\index.php on line 3
+[26-Mar-2020 13:39:42 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 13:39:44 Europe/Berlin] User details sucessfully added to database!
+[26-Mar-2020 13:42:05 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\mvc\application\views\home\index.php on line 3
+[26-Mar-2020 13:42:05 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\mvc\application\controller\home.php on line 11
+[26-Mar-2020 14:06:05 Europe/Berlin] Missing CSRF session token. Form ignored.
+[26-Mar-2020 14:06:36 Europe/Berlin] CSRF check passed. Form parsed and redirected to preview page.
+[26-Mar-2020 14:06:38 Europe/Berlin] User details sucessfully added to database!
